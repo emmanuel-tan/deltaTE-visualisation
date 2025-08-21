@@ -33,13 +33,13 @@ Resulting Streamlit site provides:
 - Top gene lists classified by regulatory pattern (exclusive TE changes, buffering, etc.)
 
 ### Load data
-<img src="assets/01-load_data.gif" width="400"/>
+<img src="assets/01-load_data.gif" width="100%"/>
 
 ### View interactive plot
-<img src="assets/02-interactive-plot.gif" width="400"/>
+<img src="assets/02-interactive-plot.gif" width="100%"/>
 
 ### View top genes
-<img src="assets/03-top-gene.gif" width="400"/>
+<img src="assets/03-top-gene.gif" width="100%"/>
 
 ### [Check out the web app](https://delta-te-viewer.streamlit.app/)
 
