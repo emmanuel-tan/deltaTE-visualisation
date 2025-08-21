@@ -32,9 +32,6 @@ Resulting Streamlit site provides:
 - Interactive visualisations of deltaTE output for result exploration
 - Top gene lists classified by regulatory pattern (exclusive TE changes, buffering, etc.)
 
-### Load data
-<img src="assets/01-load_data.gif" width="100%"/>
-
 ### View interactive plot
 <img src="assets/02-interactive-plot.gif" width="100%"/>
 
